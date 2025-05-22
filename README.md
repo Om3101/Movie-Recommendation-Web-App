@@ -73,7 +73,7 @@ The dataset has been verified for completeness, with no null or missing values.
    ```
 
 5. **Access the Web App**:
-   Open your browser and go to: `https://movie-recommendation-react-sandy.vercel.app/`
+   **Live App:** [Movie_App](https://movie-recommendation-react-sandy.vercel.app/)
 
 ---
 
